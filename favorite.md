@@ -1,0 +1,3 @@
+Since using the three different editors i've come to prefer emacs. Although initially it seemed a bit complex to use when you see things like C-x C-c, but it's actually really simple once you start playing around with it.
+Maybe it's because it's the first one I used out of the three, but i've grown acustomed to it. it feels really quick to jump around files with it. plus it has tetris for thoes desperate times.
+Compared to Vi, it feels more natural to use and feels a bit more feature rich than nano. Although I will still take the time to learn more about all three different editors so I can properly use each one if needed.
